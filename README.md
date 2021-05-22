@@ -10,8 +10,17 @@ Initial Steps
 ```
 npm install
 ```
- 
+
+```
+npm i -D electron@9.1.1
+```
 ### then
+
+```
+npm i electron-is-dev@1.2.0
+```
+ 
+### Finally
 
 ```
 npm start
